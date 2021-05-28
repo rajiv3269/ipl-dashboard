@@ -1,4 +1,4 @@
-package com.fullstack.ipldashboard.processor;
+package com.fullstack.ipldashboard.batch;
 
 import java.time.LocalDate;
 
